@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oInvisibleWall",
+  "name": "oWall",
   "spriteId": {
     "name": "sInvisibleWall",
     "path": "sprites/sInvisibleWall/sInvisibleWall.yy",

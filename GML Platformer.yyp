@@ -5,7 +5,7 @@
   "resources": [
     {"id":{"name":"sInvisibleWall","path":"sprites/sInvisibleWall/sInvisibleWall.yy",},"order":1,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
-    {"id":{"name":"oInvisibleWall","path":"objects/oInvisibleWall/oInvisibleWall.yy",},"order":1,},
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
