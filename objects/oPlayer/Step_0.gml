@@ -48,9 +48,24 @@ y = y + vsp
 // Animation
 if (!place_meeting(x,y+1,oWall))
 {
-	sprite_index = sPlayerA;
+	sprite_index = sPlayerJump;
 	image_speed = 0;
-	if (vsp > 0) image_index = 1; else image_index = 0;
+	
+	// jump up
+	if (vsp < -(jumpsp / 2)) 
+	{
+		image_index = 0;
+	}
+	// top of jump. this is broken and i dont know how to fix it
+	else if (vsp >- -(jumpsp / 2) and vsp <- (jumpsp / 2)) 
+	{
+		image_index = 1;
+	}
+	// falling
+	else if (vsp > (jumpsp / 2))
+	{
+		image_index = 2;
+	}
 }
 else
 {
@@ -61,7 +76,7 @@ else
 	}
 	else
 	{
-		sprite_index = sPlayerR;
+		sprite_index = sPlayerWalk;
 	}
 }
 
