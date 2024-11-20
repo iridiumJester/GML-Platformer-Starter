@@ -1,7 +1,7 @@
-/// @desc Going out of boundary
+/// @desc Going to next room
 
-x = xstart;
-y = ystart;
-
-
+if room_exists(Room2) 
+{
+	room_goto(Room2)
+}
 

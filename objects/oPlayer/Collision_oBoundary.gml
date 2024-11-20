@@ -1,7 +1,12 @@
 /// @desc Going out of boundary
 
-x = xstart;
-y = ystart;
-
-
-
+if (passed_checkpoint) 
+{
+	x = 3008;
+	y = 576
+}
+else 
+{
+	x = xstart;
+	y = ystart;
+}

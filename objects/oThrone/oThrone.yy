@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oDoor",
+  "name": "oThrone",
   "spriteId": {
-    "name": "sDoor",
-    "path": "sprites/sDoor/sDoor.yy",
+    "name": "sBoundary",
+    "path": "sprites/sBoundary/sBoundary.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,

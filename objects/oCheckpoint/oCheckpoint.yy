@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oDoor",
+  "name": "oCheckpoint",
   "spriteId": {
-    "name": "sDoor",
-    "path": "sprites/sDoor/sDoor.yy",
+    "name": "sCheckpoint",
+    "path": "sprites/sCheckpoint/sCheckpoint.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
