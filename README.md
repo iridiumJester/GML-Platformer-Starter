@@ -5,16 +5,16 @@ A platformer derived from a GML Starter kit for the **Platformer Tutorial (GML) 
 * [Platformer Tutorial (GML) - Par 1](https://youtu.be/2z4981CxFkw)
 * [Platformer Tutorial (GML) - Par 2](https://youtu.be/CUFm5DZm-A8)
 
-**--Features**
+## Features
 
-From Tutorials
+**From Tutorials**
 * Player can walk using arrow keys and jump with spacebar. Player jump is affected by gravity.
 * Player stops moving when colliding into invisible walls horizontally. Player stands on walls without falling through when colliding vertically.
 * Player uses idle sprite when not in motion, walking sprite when in motion, and jump sprites when airborne.
 * Door/Portal at the end of the level that takes player to end room. (From Winikka)
 * Camera that follows player without showing the full room. (From Winikka)
 
-By Me!
+**By Me!**
 * Boundary walls that set the player back to start if they fall.
 * Arrows to guide the player in places where they cant see where they would be landing, and at the end of the level where the door has no sprite.
   I didn't want to change my level design and I like the camera size as is. So I made signs about it.
