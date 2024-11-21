@@ -56,8 +56,8 @@ if (!place_meeting(x,y+1,oWall))
 	{
 		image_index = 0;
 	}
-	// top of jump. this is broken and i dont know how to fix it
-	else if (vsp >- -(jumpsp / 2) and vsp <- (jumpsp / 2)) 
+	// top of jump
+	else if (vsp >= -(jumpsp / 2) and vsp <= (jumpsp / 2)) 
 	{
 		image_index = 1;
 	}

@@ -3,7 +3,7 @@
 if (passed_checkpoint) 
 {
 	x = 3008;
-	y = 576
+	y = 512;
 }
 else 
 {
