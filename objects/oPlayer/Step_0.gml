@@ -81,3 +81,9 @@ else
 }
 
 if (hsp != 0) image_xscale = sign(hsp);
+
+// Sit!!!
+if (keyboard_check(vk_down)) 
+{
+	sprite_index = sPlayerSit;
+}
