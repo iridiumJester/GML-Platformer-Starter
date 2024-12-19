@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oDoor1",
+  "%Name":"oBoundary3",
   "eventList":[],
   "managed":true,
-  "name":"oDoor1",
+  "name":"oBoundary3",
   "overriddenProperties":[],
   "parent":{
     "name":"Placeholders",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sDoor",
-    "path":"sprites/sDoor/sDoor.yy",
+    "name":"sBoundary",
+    "path":"sprites/sBoundary/sBoundary.yy",
   },
   "spriteMaskId":null,
   "visible":false,

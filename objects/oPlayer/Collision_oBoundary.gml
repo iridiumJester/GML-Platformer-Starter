@@ -1,6 +1,6 @@
 /// @desc Going out of boundary
 
-if (passed_checkpoint) 
+if (passedCheckpoint) 
 {
 	x = 3008;
 	y = 512;

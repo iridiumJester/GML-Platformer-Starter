@@ -1,5 +1,5 @@
 /// @desc 
 
-passed_checkpoint = true;
+passedCheckpoint = true;
 
 
